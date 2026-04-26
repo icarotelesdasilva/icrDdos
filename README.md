@@ -8,7 +8,7 @@ instalação:
 
 4- va ao terminal e navegue ate a pasta.
 
-5- execute o script com ./icrDOs.sh
+5- execute o script: sudo ./icrDOs.sh
 
 
 REQUISITOS: tenha proxychains4 configurado.
