@@ -1,6 +1,6 @@
 instalação: 
 
-1- acesse esse download zip: /home/icr/Downloads/icrDdos-main/
+1- acesse esse download zip: https://github.com/icarotelesdasilva/icrDdos/archive/refs/heads/main.zip
 
 2- vá ao seu gerenciador de arquivos
 
